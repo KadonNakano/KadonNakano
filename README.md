@@ -1,4 +1,11 @@
-## Hi there 👋
+- Hi, I'm Kadon Nakano
+- I'm interested in computers. film cameras, and gaming
+- I'm currently learning Japanese
+- Im originally from Oahu
+- I'm a Junior in computer engineering
+- I chose my major because I have an interest in computers and technology
+- From ECE 205 I hope to refine my C and C++ skills
+- A movie that I'd recommend is Whiplash
 
 <!--
 **KadonNakano/KadonNakano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
