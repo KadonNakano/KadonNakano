@@ -1,6 +1,7 @@
 - Hi, I'm Kadon Nakano
-- I'm interested in computers. film cameras, and gaming
+- I'm interested in computers, film cameras, and gaming
 - I'm currently learning Japanese
+- Fun fact: I suck at Japanese
 - Im originally from Oahu
 - I'm a Junior in computer engineering
 - I chose my major because I have an interest in computers and technology
